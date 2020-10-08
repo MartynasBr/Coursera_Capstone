@@ -1,6 +1,7 @@
 # Coursera_Capstone
 This notebook will be used to create Coursera capstone project.
 1. Introduction
+
 1.1 A description of the problem and a discussion of the background
 Did you know? IBM Watson Studio lets you build and deploy an AI solution, using the best of open source and IBM software and giving your team a single environment to work in. Learn more here.
 Serious situation with COVID-19 in the world should change travel habits. More people will start to avoid public transport, because of possibility to get sick. So some of them will start to travel to work on feet or by bike.
